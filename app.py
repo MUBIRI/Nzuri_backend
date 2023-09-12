@@ -15,7 +15,7 @@ def get_info():
     time_with_window = utc_now.strftime("%Y-%m-%dT%H:%M:%SZ")
     
     # GitHub URLs
-    github_file_url = "https://github.com/MUBIRI/Nzuri_backend/blob/main/app.py"
+    github_file_url = "https://github.com/MUBIRI/Nzuri_backend/blob/main/app.txt"
     github_repo_url = "https://github.com/MUBIRI/Nzuri_backend.git"
     
     response_data = {
